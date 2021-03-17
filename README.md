@@ -18,9 +18,9 @@ Find more of my work at (https://github.com/mrivera0014/)
 
 ## Screenshots
 
-![fitness_tracker](public/assets/images/fitness_tracker.PNG)
-![fitness_tracker2](public/assets/images/fitness_tracker2.PNG)
-![dashboard](public/assets/images/dashboard.PNG)
+![fitness_tracker](public/assets/images/fitness_tracker.png)
+![fitness_tracker2](public/assets/images/fitness_tracker2.png)
+![dashboard](public/assets/images/dashboard.png)
 
 ## Links
 
